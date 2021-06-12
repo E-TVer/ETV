@@ -1,0 +1,9 @@
+version:1
+m.bxwxorg.com::#cambrian0 div[class*='_']@@div[id*='_']@@body&&div,8&&div,0&&div,0&&div,0&&a,0&&img,0@@body&&.tui,1@@body&&div,12&&div,0&&a,0@@body&&div,12&&a,2@@body&&.tui,0
+www.owllook.net::body&&.footer,0@@body&&.navbar,0&&.container-fluid,0&&.login,0
+www.nfmovies.com::body&&.hy-layout
+www.duboku.net::.myui-panel-bg,1
+m.fenggoudy.com::body&&img
+ddrk.me::#post-8018&&.post-content&&.entry&&a&&img@@body&&.afc_popup,0@@#obay_hf&&a,0
+m.comicat.org::body&&.data_top,0&&.gg-full-width,0&&.gg_canvas,0@@#splash_screen&&.gg_canvas,0&&.gg_url,0&&.gg_full_screen,0
+myqqjd.com::#advert_widget
